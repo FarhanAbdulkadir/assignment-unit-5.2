@@ -13,12 +13,16 @@ body{
     background-color: darkblue;
     color: lightblue;
     text-align: center;
+    padding: 1em;
+
 
     
 }
 
 .main{
     background-color: lightgrey;
+    text-align: center;
+    margin: 0;
     padding: 1em;
 
   
